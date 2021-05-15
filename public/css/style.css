@@ -1,0 +1,25 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.row{
+    margin: 0%;
+}
+
+.main_menu{
+    background-color: rgb(20, 20, 32);
+}
+
+.navbar{
+    color: white;
+    background-color: rgb(20, 20, 32);
+    padding: 20px ;
+}
+
