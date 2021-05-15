@@ -38,7 +38,7 @@ app.get("/weather" , (req , res)=>{
     console.log(cityName);
     if(cityName===undefined){
         res.render("weather" , {
-            temp : "Enter City Name",
+            temp : "Enter City Name in a correct way",
         })
     }
 
